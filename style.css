@@ -1,0 +1,15 @@
+body{
+    background-image: url(flag.jpg);
+    color: #101820;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px auto;
+   
+}
+
+
+    
